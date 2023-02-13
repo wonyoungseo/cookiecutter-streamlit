@@ -2,7 +2,7 @@
 
 > Cookiecutter template for Streamlit app
 
-![example app created via cookiecutter template](https://github.com/wonyoungseo/cookiecutter-streamlit/tree/main/images/example_app.png)
+![](https://github.com/wonyoungseo/cookiecutter-streamlit/blob/main/images/example_app.png)
 
 ## 1. Prerequisite
 
