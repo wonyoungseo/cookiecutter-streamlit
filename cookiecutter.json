@@ -1,0 +1,8 @@
+{
+	"app_name": "example_project",
+	"license": ["MIT", "BSD-3", "GNU GPL v3.0", "Apache Software License 2.0"],
+	"author": "John Doe",
+	"author_email": "john.doe@hello.world",
+	"description": "hello world",
+	"use_docker": ["True", "False"]
+}
