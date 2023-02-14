@@ -9,5 +9,6 @@ class Page2(BasePageLayout):
 
     def page_content(self):
         st.title("Page 2")
+        st.markdown("* * *")
 
 
