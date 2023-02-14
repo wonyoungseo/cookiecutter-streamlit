@@ -1,4 +1,4 @@
 # {{ cookiecutter.app_name }}
 
-> Author: {{ cookiecutter.author }}
+> Author: {{ cookiecutter.author }}  
 > Description: {{ cookiecutter.description }}
